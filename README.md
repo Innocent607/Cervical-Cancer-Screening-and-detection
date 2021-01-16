@@ -1,7 +1,7 @@
 # Cervical-Cancer-Screening-and-Detection
 
-Authors MagnivecotechB14(Innocent607), Meloius
---
+Authors: MagnivecotechB14(Innocent607), Meloius
+---
 What we want to implement is the use of a device that does not need a speculum to take the sample cells, a device that will use data collected from repeated testing to learn all kind of HPV (Human Papillomavirus) to produce better results of where (if the person has this virus) the cancer is at, early or late stage so that better treatment can be employed. This device will be made in such a way that it will be able to collect cervical cells without spread – opening the opening of the woman’s vagina. 
 
 The device will be covered with tactile sensors and biosensors to better detect were potential abnormal cells may be. Tactile sensors have been used before in medicine as they have a similar sensing power as the human hand. This will help as most cancerous cells have different temperatures to the rest. Furthermore, biosensors, new to the field of medicine are also used to better identify abnormal cells that may develop into cancerous cells. 
